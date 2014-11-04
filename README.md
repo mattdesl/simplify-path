@@ -11,12 +11,14 @@ var simplify = require('simplify-path')
 var path = [ [250, 150], [250, 150], [25, 25], [24, 25], [10, 10] ]
 var tolerance = 10
 
-var simplified = simplify(path, tolerance)
+simplify(path, tolerance)
 ````
 
 Result: 
 
-`[ [ 250, 150 ], [ 25, 25 ], [ 10, 10 ] ]`
+```
+[ [ 250, 150 ], [ 25, 25 ], [ 10, 10 ] ]
+```
 
 Or you can use the algorithms individually:
 

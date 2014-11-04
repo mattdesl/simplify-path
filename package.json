@@ -1,0 +1,41 @@
+{
+  "name": "simplify-path",
+  "version": "1.0.0",
+  "description": "simplify 2D polyline of arrays",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "polyline",
+    "simplify",
+    "2d",
+    "path",
+    "poly",
+    "line",
+    "douglas",
+    "radial",
+    "distance",
+    "redundant",
+    "duplicate",
+    "points"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/simplify-path.git"
+  },
+  "homepage": "https://github.com/mattdesl/simplify-path",
+  "bugs": {
+    "url": "https://github.com/mattdesl/simplify-path/issues"
+  }
+}

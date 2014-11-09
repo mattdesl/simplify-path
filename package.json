@@ -1,7 +1,7 @@
 {
   "name": "simplify-path",
   "version": "1.0.0",
-  "description": "simplify 2D polyline of arrays",
+  "description": "simplify 2D polyline",
   "main": "index.js",
   "license": "MIT",
   "author": {
